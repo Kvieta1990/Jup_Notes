@@ -7,7 +7,4 @@ dependencies:
   - scipy
   - seaborn
   - pomegranate
-  - math
-  - operator
-  - functools
-  - sklearn
+  - scikit-learn
