@@ -5,3 +5,9 @@ dependencies:
   - numpy
   - matplotlib
   - scipy
+  - seaborn
+  - pomegranate
+  - math
+  - operator
+  - functools
+  - sklearn
